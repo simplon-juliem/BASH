@@ -12,5 +12,5 @@ sudo apt-get install atom
 
 #git
 sudo apt-get install git
-git config --global user.name "simplon-tyffaniz"
-git config --global user.email tyff34@gmail.com
+git config --global user.name
+git config --global user.email
